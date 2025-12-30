@@ -1,0 +1,21 @@
+.titer{
+  font-family: arial;
+  text-align: center;
+  color: rgb(236, 66, 94);
+  font-family: algerian;
+}
+.body{
+    background-color: rgba(219, 20, 53, 0.269);
+    background-repeat: no-repeat;
+    background-image:url(245f174f6122e9117e36a3117a812018.jpg);
+    background-size: cover;
+}
+.k{
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 40px 40px 40px 40px;
+    box-shadow: 12px 0px 40px black;
+    width: 700px;
+    margin: 60px;
+
+}
